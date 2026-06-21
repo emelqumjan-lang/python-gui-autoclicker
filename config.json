@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "cps": 46,
+  "button": "Левая",
+  "mode": "Обычный",
+  "start_delay": 0.0,
+  "randomization": 0,
+  "click_limit": 0,
+  "hotkey": {
+    "type": "keycode",
+    "char": "м",
+    "vk": null
+  },
+  "topmost": false,
+  "double_click": false,
+  "total_clicks": 32380
+}
