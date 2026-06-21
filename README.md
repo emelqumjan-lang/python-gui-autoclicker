@@ -17,3 +17,4 @@ A fast, fully responsive, and beautifully designed Python autoclicker with a mod
 2. Clone this repository or download the source code.
 3. Install the required dependencies:
 ```bash pip install -r requirements.txt
+python -m pip install -r requirements.txt
